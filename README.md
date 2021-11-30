@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashira19
+- 👋 Hi, I’m @yas19
 - 👀 I’m interested in developing my knowledge about software. 
 - 🌱 I’m currently an undergraduate studying Computer Science at CSUN. 
 - 💞️ I’m looking to put my hands in the work field and get experience by doing what I like!
